@@ -3,6 +3,7 @@
 ### Tech Stack: HTML, CSS, JavaScript
 
 This project was built using HTML, CSS, and JavaScript, which I learned through online lectures. 
+
 I also referenced a senior’s self-introduction page code for inspiration. (I hope it’s not considered plagiarism! ><)
 
 ### Challenges
