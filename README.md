@@ -1,4 +1,4 @@
-# Self Introduce Page (2023.08.14~08.17)
+# Self Introduce Page (2023.08.14~)
 
 ### Tech Stack: HTML, CSS, JavaScript
 
